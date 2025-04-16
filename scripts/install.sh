@@ -1,0 +1,1 @@
+curl -LJO https://github.com/kdports/MCModPack1-21/archive/refs/heads/main.zip
